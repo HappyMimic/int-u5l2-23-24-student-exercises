@@ -40,6 +40,7 @@ console.log(myArray5); // Should print [1, 2, 3, 4]
 
 
 let newArray = [...myArray5,...myArray4];
+console.log("new array:");
 console.log(newArray);
 
 // CHALLENGE
